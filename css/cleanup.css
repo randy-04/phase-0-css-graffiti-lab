@@ -1,1 +1,32 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+div #tag-5 {
+    display: none;
+}
+
+body #tag-7 {
+    offset-distance:inherit;
+}
+
+#wall tag-6 {
+    display: none;
+}
+
+div #tag-3 {
+    display: none;
+}
+
+body div {
+    display: flex;
+}
+
+body #tag-2 {
+    display: none;
+}
+
+#wall #tag-4 {
+    display:none;
+}
